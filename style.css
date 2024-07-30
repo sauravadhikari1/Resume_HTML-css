@@ -96,5 +96,10 @@ text-align: center;
 .experience{
     
     margin-top: 50px;
+    margin-left: 50px;
     padding:15px
+}
+.experience h2{
+    background-color: rgb(195, 185, 172);
+    padding: 5px;
 }
